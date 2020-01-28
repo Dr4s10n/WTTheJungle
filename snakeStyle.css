@@ -1,12 +1,12 @@
 #overflowHidden {
-  background: black url("Arcade2.png") no-repeat; 
+  background: black url("arcade2.png") no-repeat; 
   background-position: 100px -30px;
   height: 100%;
   margin: 0;
   overflow: hidden;
 }
 #overflowShown{
-  background: black url("Arcade2.png") no-repeat; 
+  background: black url("arcade2.png") no-repeat; 
   background-position: 100px -30px;
   height: 100%;
   margin: 0;
